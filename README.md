@@ -71,8 +71,8 @@ Git, GitHub, Postman, Linux, MVC Architecture
 
 ### 🤝 Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🌐 Portfolio: https://your-portfolio-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashank-upadhyay-583a5924a/  
+- 🌐 Portfolio: https://portfolio-wfei.onrender.com/
 - 📧 Email: shashankupadhyay920@gmail.com  
 
 ---
