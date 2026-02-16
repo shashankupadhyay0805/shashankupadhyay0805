@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Upadhyay</h1>
 
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | React & Next.js Specialist</h3>
+<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast | React, Next.js & Node.js Specialist
+</h3>
 
 <p align="center">
 I build responsive, scalable, and user-friendly web applications with a strong focus on clean UI/UX and performance. Passionate about transforming ideas into seamless digital experiences using modern frontend technologies.
