@@ -16,7 +16,7 @@ I design and build scalable, high-performance, and user-friendly web application
 - 🌐 Experienced in **REST APIs, WebSockets, Backend Architecture, and Database Design**
 - ☁️ Familiar with **Cloud Platforms and DevOps tools for deployment and scalability**
 - 🧠 Strong foundation in **Data Structures, Algorithms, and System Design**
-- 🎓 B.Tech ECE student at **IIIT Bhagalpur**
+- 🎓 B.Tech student at **IIIT Bhagalpur**
 - 📫 Reach me at: **shashankupadhyay920@gmail.com**
 
 ---
