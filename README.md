@@ -1,63 +1,71 @@
 <h1 align="center">Hi 👋, I'm Shashank Upadhyay</h1>
 
-<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast | React, Next.js & Node.js Specialist
-</h3>
+<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast | React, Next.js, Node.js & Cloud Technologies</h3>
 
 <p align="center">
-I build responsive, scalable, and user-friendly web applications with a strong focus on clean UI/UX and performance. Passionate about transforming ideas into seamless digital experiences using modern frontend technologies.
+I design and build scalable, high-performance, and user-friendly web applications across the full stack. I specialize in developing modern frontend interfaces, robust backend systems, and deploying applications using cloud and DevOps technologies. Passionate about creating seamless digital experiences through clean architecture, efficient code, and thoughtful UI/UX design.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Frontend and Full Stack Web Applications**
-- 🎨 Passionate about **UI/UX Design, Responsive Interfaces, and User Experience**
-- ⚛️ Skilled in **React.js, Next.js, TypeScript, Tailwind CSS**
-- 🌐 Experienced in **REST APIs, WebSockets, and Modern Frontend Architecture**
-- 🧠 Strong foundation in **Data Structures and Problem Solving (Codeforces Specialist)**
+- 🔭 I’m currently working on **Full Stack Web Applications using MERN and modern cloud technologies**
+- ⚛️ Skilled in building **responsive frontend interfaces and scalable backend APIs**
+- 🎨 Passionate about **UI/UX Design, Responsive Design, and User-Centric Development**
+- 🌐 Experienced in **REST APIs, WebSockets, Backend Architecture, and Database Design**
+- ☁️ Familiar with **Cloud Platforms and DevOps tools for deployment and scalability**
+- 🧠 Strong foundation in **Data Structures, Algorithms, and System Design**
 - 🎓 B.Tech ECE student at **IIIT Bhagalpur**
 - 📫 Reach me at: **shashankupadhyay920@gmail.com**
 
 ---
 
-### 🛠️ Frontend & UI/UX Technologies
+### 🛠️ Full Stack Technologies
 
 **Frontend:**  
-React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Responsive Design  
+
+**Backend:**  
+Node.js, Express.js, REST APIs, JWT Authentication, WebSockets, Microservices Basics  
+
+**Database:**  
+MongoDB, MySQL, PostgreSQL, Redis  
 
 **UI/UX:**  
-Figma, Wireframing, Prototyping, Responsive Design, User Interface Design  
+Figma, Wireframing, Prototyping, User Interface Design, Responsive Design  
 
-**Backend & Tools:**  
-Node.js, Express.js, MongoDB, REST APIs, Git, GitHub, Docker  
+**DevOps & Cloud:**  
+Docker, Kubernetes (Basics), GitHub Actions, AWS, Azure, Google Cloud Platform, CI/CD  
 
-**Cloud:**  
-AWS, Azure, Google Cloud Platform  
+**Tools & Workflow:**  
+Git, GitHub, Postman, Linux, MVC Architecture  
 
 ---
 
 ### 💼 Featured Projects
 
-- 🍔 **BiteBuddy** – Responsive MERN food ordering platform with modern UI and real-time interactions  
-- 🛍️ **SecondHandSeller** – Scalable marketplace platform with secure authentication  
-- 🎬 **CineTube** – Movie discovery app with optimized frontend performance  
+- 🍔 **BiteBuddy** – Full Stack MERN food ordering platform with responsive UI, secure authentication, and real-time interactions  
+- 🛍️ **SecondHandSeller** – Full Stack marketplace with scalable backend, role-based authentication, and optimized API performance  
+- 🎬 **CineTube** – Movie discovery platform with optimized frontend, API integration, and responsive UI  
 
 ---
 
-### 📈 Coding Profiles
+### 📈 Coding Profiles & Achievements
 
 - ⭐ Codeforces Specialist  
 - ⭐ CodeChef 3★ (1600+ rating)  
-- 💻 Solved 600+ DSA problems  
+- 💻 Solved 600+ DSA problems across multiple platforms  
+- 🏆 Smart India Hackathon Internal Finalist  
 
 ---
 
 ### 🎯 Current Focus
 
-- Building scalable frontend applications  
-- Improving UI/UX design skills  
-- Learning advanced frontend architecture and performance optimization  
+- Building scalable full stack applications  
+- Learning advanced backend architecture and system design  
+- Improving DevOps, cloud deployment, and CI/CD workflows  
+- Creating high-quality, user-friendly frontend experiences  
 
 ---
 
@@ -65,10 +73,10 @@ AWS, Azure, Google Cloud Platform
 
 - 💼 LinkedIn: https://linkedin.com/in/your-link  
 - 🌐 Portfolio: https://your-portfolio-link  
-- 📧 Email: shashankupadhyay920@gmail.com
+- 📧 Email: shashankupadhyay920@gmail.com  
 
 ---
 
 <p align="center">
-✨ "I focus on building products that are not just functional, but also intuitive and enjoyable to use."
+✨ "I build complete web solutions — from intuitive user interfaces to scalable backend systems and reliable cloud deployments."
 </p>
